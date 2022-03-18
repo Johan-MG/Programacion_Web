@@ -1,8 +1,8 @@
 .nav-custom {
-    background-color: rgb(8, 163, 67);
+    background-color: rgba(26,47,198,.8);
   }
 
   .footer-custom{
-    background: rgb(158,255,247);
-    background: linear-gradient(90deg, rgba(158,255,247,1) 0%, rgba(128,255,107,1) 36%, rgba(76,186,0,1) 100%);
+    background: rgb(45,197,185);
+    background: linear-gradient(90deg, rgba(45,197,185,1) 4%, rgba(26,47,198,1) 73%, rgba(151,35,201,1) 100%);
   }
