@@ -12,4 +12,5 @@ Programas escolares desarrollados en la materia de Programación Web
 2.12 efectos CSS 4-4: https://johan-mg.github.io/Programacion_Web/2.12%20efectos%20CSS%204-4/index.html   
 2.13 Propiedad Position: https://johan-mg.github.io/Programacion_Web/2.13%20Propiedad%20Position%20CSS/index.html   
 2.14 Intro-Boostrap: https://johan-mg.github.io/Programacion_Web/2.14%20intro-boostrap/index.html   
-2.15 Interfaces Frameworks CSS Boostrap: https://johan-mg.github.io/Programacion_Web/2.15%20Interfaces%20Frameworks%20CSS%20Boostrap/index.html
+2.15 Interfaces Frameworks CSS Boostrap: https://johan-mg.github.io/Programacion_Web/2.15%20Interfaces%20Frameworks%20CSS%20Boostrap/index.html   
+[2.16 Web Templates](https://johan-mg.github.io/Programacion_Web/2.16%20web%20templates/index.html)
