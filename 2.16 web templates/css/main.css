@@ -24,6 +24,21 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
+
+ /*
+  * Animaciones
+ */
+
+.card:hover{
+  box-shadow: 20px 19px 15px #d4e2ff62;
+}
+.bg-card{
+  background-color: #0026FF;
+}
+.bg-card:hover{
+background-color: #0f00e6;
+}
+
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
@@ -3435,6 +3450,7 @@ Created using IcoMoon - icomoon.io
   font-size: 2em; }
 
 .card {
+  transition: 0.7s;
   border: 0;
   border-radius: 0.1875rem;
   display: inline-block;
@@ -3442,7 +3458,7 @@ Created using IcoMoon - icomoon.io
   overflow: hidden;
   width: 100%;
   margin-bottom: 20px;
-  box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2); }
+  box-shadow: 0px 10px 10px 0px #d4e2ff62; }
   .card .card-body {
     min-height: 190px; }
   .card[data-background-color="orange"] {
