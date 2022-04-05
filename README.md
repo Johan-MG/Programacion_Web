@@ -13,4 +13,6 @@ Programas escolares desarrollados en la materia de Programación Web
 2.13 Propiedad Position: https://johan-mg.github.io/Programacion_Web/2.13%20Propiedad%20Position%20CSS/index.html   
 2.14 Intro-Boostrap: https://johan-mg.github.io/Programacion_Web/2.14%20intro-boostrap/index.html   
 2.15 Interfaces Frameworks CSS Boostrap: https://johan-mg.github.io/Programacion_Web/2.15%20Interfaces%20Frameworks%20CSS%20Boostrap/index.html   
-[2.16 Web Templates](https://johan-mg.github.io/Programacion_Web/2.16%20web%20templates/index.html)
+[2.16 Web Templates](https://johan-mg.github.io/Programacion_Web/2.16%20web%20templates/index.html)    
+[3.1 Intro a la programación del lado del cliente](https://johan-mg.github.io/Programacion_Web/3.1%20Introduccion%20a%20la%20programacion%20del%20lado%20del%20cliente/)    
+[3.3 Interacción dinámica JavaScript](https://johan-mg.github.io/Programacion_Web/3.3%20Interacción%20dinámica%203-2/)    
