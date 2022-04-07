@@ -147,4 +147,3 @@ function desSelect(){
         btnStyle[i].style.backgroundColor = "#EEEEEE";
     }
 }
-console.log("holis");
